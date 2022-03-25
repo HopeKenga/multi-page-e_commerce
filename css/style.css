@@ -35,7 +35,7 @@ section {
 }
 
 .heading {
-    font-family: 'Sacramento';
+    font-family: 'Open Sans';
     background: #244d4d;
     display: -webkit-box;
     display: -ms-flexbox;
@@ -51,7 +51,7 @@ section {
 }
 
 .heading h3 {
-    font-family: 'Sacramento';
+    font-family: 'Open Sans';
     font-size: 2.5rem;
     text-transform: uppercase;
     color: #fff;
@@ -108,13 +108,15 @@ section {
     margin-top: 1rem;
     padding: .9rem 3rem;
     font-size: 1.7rem;
-    background: #244d4d;
+    font-family: 'Sacramento';
+    background: #008080;
     color: #fff;
     cursor: pointer;
+    border-radius: 0.5rem;
 }
 
 .btn:hover {
-    background: #316868;
+    background: #daa520;
 }
 
 .header {
@@ -437,6 +439,7 @@ section {
     margin: 1rem 0;
     width: 100%;
     text-align: center;
+    border-radius: 0.5rem;
 }
 
 .login-form form p {
@@ -626,6 +629,7 @@ section {
 
 .banner-container .banner .content .btn {
     padding: .7rem 2.5rem;
+    border-radius: 0.5rem;
 }
 
 .category .box-container {
