@@ -32,7 +32,7 @@ html::-webkit-scrollbar-track {
 }
 
 html::-webkit-scrollbar-thumb {
-    background: #ccd3c9;
+    background: #008080;
     border-radius: 0.5rem;
 }
 
@@ -812,7 +812,8 @@ section {
 }
 
 .about .content h3 {
-    font-size: 2.5rem;
+    font-family: 'Sacramento';
+    font-size: 2.7rem;
     color: #008080;
     padding-top: 1rem;
 }
