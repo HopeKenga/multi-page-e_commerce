@@ -1,1 +1,1 @@
-# multi-page-e_commerce
+# multi-page-e_commerce beauty store with an aesthetic appeal.
